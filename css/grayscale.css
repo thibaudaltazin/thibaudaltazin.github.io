@@ -227,6 +227,7 @@ a:focus, a:hover {
     color: #f1c40f;
     border: 1px solid #f1c40f;
     background-color: transparent;
+      border-radius: 3px;
   }
   .btn-default:focus, .btn-default:hover {
     color: black;
